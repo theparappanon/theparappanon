@@ -10,4 +10,4 @@ I don't know, but aside from that I also like the original Playstation and Parap
 - **Shell:** fish
 - **Terminal Emulator:** Alacritty (Although I'd be using st instead if I was willing to go with the whole "you compile it again after you modify it" thing)
 - **Text editor:** Neovim
-- **IDE:** Haven't needed one yet, but when I did my earliest projects I was still on Windows and Visual Studio.
+- **Drink:** Tea lol
